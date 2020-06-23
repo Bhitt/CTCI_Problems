@@ -7,8 +7,6 @@ public class Question {
 		in a binary search tree. You may assume that each node has a link to its parent.
 
 
-		Time Complexity:  O()
-		Space Complexity: O()
 	*/
 
 	public static void main(String[] args) {
