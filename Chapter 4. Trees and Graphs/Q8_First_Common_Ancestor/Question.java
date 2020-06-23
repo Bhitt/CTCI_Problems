@@ -8,8 +8,7 @@ public class Question {
 		is not necessarily a binary search tree.
 		
 
-		Time Complexity:  O()
-		Space Complexity: O()
+		Time Complexity:  O(n)
 	*/
 
 	public static void main(String[] args) {
