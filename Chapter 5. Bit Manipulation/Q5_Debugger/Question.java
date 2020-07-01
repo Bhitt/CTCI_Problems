@@ -5,8 +5,6 @@ public class Question {
 		Explain what the following code does:
 			((n & (n-1)) == 0)
 		
-		Time Complexity:  O()
-		Space Complexity: O()
 	*/
 
 	public static void main(String[] args) {
